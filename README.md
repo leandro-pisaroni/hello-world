@@ -1,15 +1,12 @@
 <!-- Title -->
-<h1 align="center">Hello World 
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-       width="30px">
-  </h1>
+<h1 align="center">print("Wellcome!") </h1>
 
 
 <!-- Quote -->
-<p align="center">I would like to change the World but they won't give me the source code </p>
-  
-  <!-- Contact Information -->
-<h1 align="center">
+<p align="center">You can contact me using this information: </p>
+
+<!-- Contact Information -->
+<h2 align="center">
 <a href="https://www.linkedin.com/in/leandro-pisaroni/">
   <img align="center" 
        alt="Linkdein" 
@@ -23,7 +20,7 @@
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
   </a>
-</h1>
+</h2>
 
 
 
@@ -34,6 +31,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
 
+
+<iframe src="https://giphy.com/embed/JrXas5ecb4FkwbFpIE" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/socialbakers-JrXas5ecb4FkwbFpIE">via GIPHY</a></p>
 &nbsp;
 
 <!-- Technical Skills -->
