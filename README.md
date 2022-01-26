@@ -53,3 +53,22 @@
   <code><img height="60" src="https://user-images.githubusercontent.com/96241520/146700013-eb4f0c3d-8d52-4c69-822b-4012b9528412.png"></code>
   </p>
 &nbsp;
+
+<!-- GitHub Stats -->
+<H2 align="center"><strong>GitHub Statistics: 📈
+  </strong>
+</H2>
+    <p align="center">
+      <div align="center">
+    </p>
+    
+<a href="https://https://github.com/leandro-pisaroni?tab=repositories">
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-pisaroni&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
+       alt='Lunox's favorite languages" />
+</a>
+  
+<a href="https://github.com/leandro-pisaroni">
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=leandro-pisaroni&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
+</a>
