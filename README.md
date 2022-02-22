@@ -41,17 +41,15 @@
   
   <p><H3 align="center"><strong> Currently improving: </strong></p>
   <code><img height="60" src="https://user-images.githubusercontent.com/96241520/146699594-a43ae467-9f72-4ebf-9917-edb466322246.png"></code>
-  <code><img height="60" src="https://user-images.githubusercontent.com/96241520/146854349-957452e8-6125-4c1a-b6c8-551cf757d636.png"></code>
+  <code><img height="60" src="https://user-images.githubusercontent.com/96241520/146854349-957452e8-6125-4c1a-b6c8-551cf757d636.png"></code>  
+  <code><img height="60" src="https://user-images.githubusercontent.com/96241520/146699798-5fdd12e7-45a1-425c-96c6-b0715ba0cbbd.png"></code>
     
   <p><H3 align="center"><strong> Working on: </strong></p>  
-  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
-  <code><img height="60" src="https://user-images.githubusercontent.com/96241520/146699798-5fdd12e7-45a1-425c-96c6-b0715ba0cbbd.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="60" src="https://user-images.githubusercontent.com/96241520/146854390-f3354ecf-c19e-4785-9015-4350241f8fcb.png"></code>
-  </p>
-  
-  <p><H3 align="center"><strong> Next to learn: </strong></p>
   <code><img height="60" src="https://user-images.githubusercontent.com/96241520/146700013-eb4f0c3d-8d52-4c69-822b-4012b9528412.png"></code>
   </p>
+
 &nbsp;
 
 <!-- GitHub Stats -->
